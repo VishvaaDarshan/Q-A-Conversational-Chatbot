@@ -40,7 +40,7 @@ Here's an example of how to interact with the chatbot:
 1. Open the Streamlit app in your browser.
 2. Type your message in the input box.
 3. Press Enter or click the Send button.
-4. The chatbot will generate a response based on the input using the OpenAI API.
+4. The chatbot will generate a response based on the input using OpenAI API.
 
 ## Contributing
 
